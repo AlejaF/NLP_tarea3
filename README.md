@@ -1,4 +1,4 @@
-#Mini-proyecto: Clasificación de texto con BERT
+# Mini-proyecto: Clasificación de texto con BERT
 
 Autores: José Luis Realpe M., Alejandra Forero, Santiago Aristizabal, Sandra Orozco Curso: Procesamiento de Lenguaje Natural — Maestría en IA Aplicada, Universidad Icesi. Basado en: notebook guía `text-classification-with-hf.ipynb`.
 
